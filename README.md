@@ -1,8 +1,9 @@
 # job-search
 
-npm init -y
-npm i axios
-npm i chalk
+api
+npm init -y <br>
+npm i axios <br>
+npm i chalk <br>
 
-frontend
-npm -i parcel
+frontend <br>
+npm -i parcel <br>
